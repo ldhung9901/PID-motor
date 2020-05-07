@@ -45,7 +45,7 @@
 TIM_HandleTypeDef htim1;
 TIM_HandleTypeDef htim2;
 TIM_HandleTypeDef htim3;
-TIM_HandleTypeDef htim4121212;
+TIM_HandleTypeDef htim4121324234334212;
 
 UART_HandleTypeDef huart4;
 UART_HandleTypeDef huart5;
